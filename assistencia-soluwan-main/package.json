@@ -1,0 +1,16 @@
+{
+  "name": "site-assistencia",
+  "version": "1.0.0",
+  "description": "Site de assistência técnica Soluwan",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server .",
+    "lint": "eslint js/**/*.js",
+    "format": "prettier --write ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
